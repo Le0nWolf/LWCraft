@@ -3,3 +3,6 @@
 
 # Exclude README
 /README.md
+
+# Exclude Commitizen Config
+/.cz.toml
