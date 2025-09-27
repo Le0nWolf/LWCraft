@@ -1,0 +1,83 @@
+[tool.commitizen]
+name = "cz_customize"
+tag_format = "v$version"
+version_scheme = "semver2"
+version_provider = "scm"
+update_changelog_on_bump = true
+major_version_zero = true
+
+[tool.commitizen.customize]
+# Commit-Message-Template
+# - "!" (Breaking) im Header
+# - spec-konformer Footer nur wenn is_breaking = true
+message_template = """{{type}}{{ '(' ~ scope ~ ')' if scope else ''}}{{ '!' if is_breaking else ''}}: {{subject}}
+{% if body %}{{body}}
+{% endif %}{% if is_breaking %}BREAKING CHANGE: {{breaking_body or subject}}
+{% endif %}{% if footer %}{{footer}}
+{% endif %}"""
+
+# Dokumentatives Schema
+schema = "<type>(<scope>)?: <subject>\n\n<body>\n\n<footer>"
+
+# Strenger Header-Check (Types/Scopes/!; Subject ≤72; kein Punkt/Space am Ende)
+schema_pattern = "^(feat|fix|chore|docs|refactor|ci|build|perf)(\\((mods|config|pack|packwiz|datapack|resourcepack|installer|ci)\\))?(!)?: [^\\s].{0,70}[^\\.\\s]$"
+
+# Explizite Bump-Logik
+bump_pattern = "(BREAKING CHANGE|!:|^feat|^fix)"
+bump_map = { "BREAKING CHANGE" = "MAJOR", "!:" = "MAJOR", "feat" = "MINOR", "fix" = "PATCH" }
+
+# Changelog-Reihenfolge (optional)
+change_type_order = ["BREAKING CHANGE", "feat", "fix", "refactor", "perf", "build", "ci", "chore", "docs"]
+
+# -------- Prompts (minimal, deutsch) --------
+[[tool.commitizen.customize.questions]]
+type = "list"
+name = "type"
+message = "Typ wählen:"
+choices = [
+  {value = "feat",     name = "feat:     neues Feature"},
+  {value = "fix",      name = "fix:      Bugfix"},
+  {value = "chore",    name = "chore:    Wartung/sonstiges"},
+  {value = "docs",     name = "docs:     Doku/README"},
+  {value = "refactor", name = "refactor: Umbau ohne Funktionsänderung"},
+  {value = "ci",       name = "ci:       CI-Konfiguration"},
+  {value = "build",    name = "build:    Build/Abhängigkeiten"},
+  {value = "perf",     name = "perf:     Performance-Änderung"}
+]
+
+[[tool.commitizen.customize.questions]]
+type = "select"
+name = "scope"
+message = "Scope (optional):"
+choices = [
+  {value = "",            name = "— kein Scope —"},
+  {value = "mods",        name = "mods"},
+  {value = "config",      name = "config"},
+  {value = "pack",        name = "pack"},
+  {value = "packwiz",     name = "packwiz"},
+  {value = "datapack",    name = "datapack"},
+  {value = "resourcepack",name = "resourcepack"},
+  {value = "installer",   name = "installer"},
+  {value = "ci",          name = "ci"}
+]
+
+[[tool.commitizen.customize.questions]]
+type = "input"
+name = "subject"
+message = "Subject (IMPERATIV, ≤72 Zeichen, kein Punkt):"
+
+[[tool.commitizen.customize.questions]]
+type = "input"
+name = "body"
+message = "Body (optional):"
+
+[[tool.commitizen.customize.questions]]
+type = "confirm"
+name = "is_breaking"
+message = "Breaking Change? ('!' im Header + Footer setzen)"
+default = false
+
+[[tool.commitizen.customize.questions]]
+type = "input"
+name = "footer"
+message = "Footer/Refs (optional), z. B. #123:"
