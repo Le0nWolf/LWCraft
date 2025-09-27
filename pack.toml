@@ -1,0 +1,13 @@
+name = "LWCraft"
+author = "Le0nWolf"
+version = "1.0.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "f8abf8ec12f70d13ccb4b4ac0b8e62d8d4557026392ada8f2f34b20fbad71c9e"
+
+[versions]
+fabric = "0.17.2"
+minecraft = "1.21.8"
