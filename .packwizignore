@@ -6,3 +6,6 @@
 
 # Exclude Commitizen Config
 /.cz.toml
+
+# Exclude Commitizen pre-commit config
+/.pre-commit-config.yaml
