@@ -10,17 +10,25 @@ major_version_zero = true
 # Commit-Message-Template
 # - "!" (Breaking) im Header
 # - spec-konformer Footer nur wenn is_breaking = true
+# - Leerzeilen zwischen Header/Body/Breaking/Footer
 message_template = """{{type}}{{ '(' ~ scope ~ ')' if scope else ''}}{{ '!' if is_breaking else ''}}: {{subject}}
-{% if body %}{{body}}
-{% endif %}{% if is_breaking %}BREAKING CHANGE: {{breaking_body or subject}}
-{% endif %}{% if footer %}{{footer}}
+{% if body %}
+
+{{body}}
+{% endif %}{% if is_breaking %}
+
+BREAKING CHANGE: {{breaking_body or subject}}
+{% endif %}{% if footer %}
+
+{{footer}}
 {% endif %}"""
 
 # Dokumentatives Schema
 schema = "<type>(<scope>)?: <subject>\n\n<body>\n\n<footer>"
 
 # Strenger Header-Check (Types/Scopes/!; Subject ≤72; kein Punkt/Space am Ende)
-schema_pattern = "^(feat|fix|chore|docs|refactor|ci|build|perf)(\\((mods|config|pack|packwiz|datapack|resourcepack|installer|ci)\\))?(!)?: [^\\s].{0,70}[^\\.\\s]$"
+# + optionaler Body/Footer nach einer Leerzeile (Windows \r\n oder \n)
+schema_pattern = "^(feat|fix|chore|docs|refactor|ci|build|perf)(\\((mods|config|pack|packwiz|datapack|resourcepack|installer|ci)\\))?(!)?: [^\\s].{0,70}[^\\.\\s](?:\\r?\\n\\r?\\n[\\s\\S]*)?$"
 
 # Explizite Bump-Logik
 bump_pattern = "(BREAKING CHANGE|!:|^feat|^fix)"
