@@ -25,6 +25,11 @@ hash = "0993352e081593fca386a8a4e6473ece541a27e018c8384239f27f79d73133a0"
 metafile = true
 
 [[files]]
+file = "mods/spark.pw.toml"
+hash = "a6948eb25808d55a8dc3b9a64999181ebae738c3679ced2981c7c1ec34b9b0b6"
+metafile = true
+
+[[files]]
 file = "mods/vmp-fabric.pw.toml"
 hash = "989b6c4ff3dc08d7994667b4dfc9931a3b15876eabe4f9de7be8939153bb1fdc"
 metafile = true
