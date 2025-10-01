@@ -15,6 +15,11 @@ hash = "098d6976a738658ca490cc58e9fab19f06cd1a7b23199b6f1ee108d866333e22"
 metafile = true
 
 [[files]]
+file = "mods/lithium.pw.toml"
+hash = "a63765eb780a36cd968e2777d2c20bea5e5ca3ccdd920e64964e3746cf2a7f0d"
+metafile = true
+
+[[files]]
 file = "mods/modmenu.pw.toml"
 hash = "6eea5e1db3dbca126b82f211bf0d2fcf2cf13097023fdef3dd668e48581a73d0"
 metafile = true
