@@ -65,6 +65,11 @@ hash = "f0b705b810fc48523a67a90f218ae8085206b08421e2a006561169bf2847a907"
 metafile = true
 
 [[files]]
+file = "mods/gamma-utils.pw.toml"
+hash = "21c99b7589bf18a764a52327f29cc898846dbc4b2a714fec5694f69e1468da71"
+metafile = true
+
+[[files]]
 file = "mods/immediatelyfast.pw.toml"
 hash = "ce1a109ba7d2637596ab6b7c001716437e1bef89f337dc3fb31ca950a46e79c3"
 metafile = true
