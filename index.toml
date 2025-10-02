@@ -85,6 +85,11 @@ hash = "d122f53efcfd54e24ef7e15247bbebe788d4ea475c2f5b84ccc1254dc625a1ec"
 metafile = true
 
 [[files]]
+file = "mods/notenoughcrashes.pw.toml"
+hash = "1c4197e0de54f02a03e5f43a4e17d72d0197186d83418fcee6a3632622a4a612"
+metafile = true
+
+[[files]]
 file = "mods/optigui.pw.toml"
 hash = "aaa113528d488df3744621e67362de6b2db57116109256b06277974127007a28"
 metafile = true
