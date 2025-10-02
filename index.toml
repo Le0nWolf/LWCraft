@@ -15,6 +15,11 @@ hash = "a216e613b5ada8a83972394c8b52331388f6d3e41187a04c3bced3f1752bea70"
 metafile = true
 
 [[files]]
+file = "mods/clumps.pw.toml"
+hash = "2a9aaecf7b1bc8b061c07412f57d4fbf83a820ab3eb34af6527081955c8de97c"
+metafile = true
+
+[[files]]
 file = "mods/continuity.pw.toml"
 hash = "a86751e4931b83d8f3de8e84e38f2dc0aa316e40c99b9e9f03a9276659a474b6"
 metafile = true
