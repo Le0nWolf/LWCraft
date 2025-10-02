@@ -55,6 +55,11 @@ hash = "d122f53efcfd54e24ef7e15247bbebe788d4ea475c2f5b84ccc1254dc625a1ec"
 metafile = true
 
 [[files]]
+file = "mods/optigui.pw.toml"
+hash = "aaa113528d488df3744621e67362de6b2db57116109256b06277974127007a28"
+metafile = true
+
+[[files]]
 file = "mods/placeholder-api.pw.toml"
 hash = "0993352e081593fca386a8a4e6473ece541a27e018c8384239f27f79d73133a0"
 metafile = true
