@@ -25,6 +25,11 @@ hash = "a86751e4931b83d8f3de8e84e38f2dc0aa316e40c99b9e9f03a9276659a474b6"
 metafile = true
 
 [[files]]
+file = "mods/coolrain.pw.toml"
+hash = "5c21bc7913dcfeeebf37acd986bccac4dc93a9dc712cda3d7ea1be0ea868211a"
+metafile = true
+
+[[files]]
 file = "mods/cubes-without-borders.pw.toml"
 hash = "a90139b002d632ba9256cb3e7e877945bf8e3afa5b191d1adc83c5e3eb72da4c"
 metafile = true
