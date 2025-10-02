@@ -5,6 +5,11 @@ file = "LICENSE"
 hash = "36ffd9dc085d529a7e60e1276d73ae5a030b020313e6c5408593a6ae2af39673"
 
 [[files]]
+file = "mods/ambientsounds.pw.toml"
+hash = "38ce16b25494d653eab2e575e9944df3fd07906ef0dc548562e4e010377a6f4f"
+metafile = true
+
+[[files]]
 file = "mods/badoptimizations.pw.toml"
 hash = "220695895a8fd68ca82b7b3c34d8499b4f6ea73f6588e3dfbccd2307af0b924d"
 metafile = true
@@ -27,6 +32,11 @@ metafile = true
 [[files]]
 file = "mods/coolrain.pw.toml"
 hash = "5c21bc7913dcfeeebf37acd986bccac4dc93a9dc712cda3d7ea1be0ea868211a"
+metafile = true
+
+[[files]]
+file = "mods/creativecore.pw.toml"
+hash = "554190499d5711421a831f95c777b85d2592482dfee9d5014580b8feef2f592a"
 metafile = true
 
 [[files]]
