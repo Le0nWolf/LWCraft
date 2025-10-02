@@ -130,6 +130,11 @@ hash = "67d7d0cd20e2933d7b2a305d60e109bc6db868883209416ccfe5e22de281c1da"
 metafile = true
 
 [[files]]
+file = "mods/mru.pw.toml"
+hash = "7d2683daeeea4990fe3e7e84443330cf36fa7732b577c050b1e9cec813eb3f5e"
+metafile = true
+
+[[files]]
 file = "mods/notenoughcrashes.pw.toml"
 hash = "1c4197e0de54f02a03e5f43a4e17d72d0197186d83418fcee6a3632622a4a612"
 metafile = true
@@ -172,6 +177,11 @@ metafile = true
 [[files]]
 file = "mods/sodium.pw.toml"
 hash = "2edb9b80b26d7f7d2f3b2edc82a33838906e6be25382aeaf186fbb25dc07e4f8"
+metafile = true
+
+[[files]]
+file = "mods/sound.pw.toml"
+hash = "7c07f85a7d89dbe99b3b00a633610264f6f83fc2a3d6a6ae8b1ceb82a0de3028"
 metafile = true
 
 [[files]]
