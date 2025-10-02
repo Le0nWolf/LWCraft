@@ -5,6 +5,11 @@ file = "LICENSE"
 hash = "36ffd9dc085d529a7e60e1276d73ae5a030b020313e6c5408593a6ae2af39673"
 
 [[files]]
+file = "mods/badoptimizations.pw.toml"
+hash = "220695895a8fd68ca82b7b3c34d8499b4f6ea73f6588e3dfbccd2307af0b924d"
+metafile = true
+
+[[files]]
 file = "mods/cloth-config.pw.toml"
 hash = "a216e613b5ada8a83972394c8b52331388f6d3e41187a04c3bced3f1752bea70"
 metafile = true
