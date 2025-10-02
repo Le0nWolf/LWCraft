@@ -125,6 +125,11 @@ hash = "d122f53efcfd54e24ef7e15247bbebe788d4ea475c2f5b84ccc1254dc625a1ec"
 metafile = true
 
 [[files]]
+file = "mods/mouse-tweaks.pw.toml"
+hash = "67d7d0cd20e2933d7b2a305d60e109bc6db868883209416ccfe5e22de281c1da"
+metafile = true
+
+[[files]]
 file = "mods/notenoughcrashes.pw.toml"
 hash = "1c4197e0de54f02a03e5f43a4e17d72d0197186d83418fcee6a3632622a4a612"
 metafile = true
