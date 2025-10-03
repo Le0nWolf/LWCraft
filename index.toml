@@ -158,6 +158,11 @@ hash = "a63765eb780a36cd968e2777d2c20bea5e5ca3ccdd920e64964e3746cf2a7f0d"
 metafile = true
 
 [[files]]
+file = "mods/locator-heads.pw.toml"
+hash = "20c255825398a46f84c92ea570ba3aa8c737f63dec886b2edc5739e969777f04"
+metafile = true
+
+[[files]]
 file = "mods/make_bubbles_pop.pw.toml"
 hash = "1d19237dc3a66d87a018bafb3f69e701bcba8ba1fdef71d9a5f17222c15a3120"
 metafile = true
