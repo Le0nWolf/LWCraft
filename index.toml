@@ -132,6 +132,11 @@ hash = "e56fa453beca9926d55a91b3687c814dfdce651419a455797cc3469e7c3ad7b1"
 metafile = true
 
 [[files]]
+file = "mods/explosive-enhancement.pw.toml"
+hash = "34684bd591ae5703edcbebe92b4066e7ff0365977a2fb804645644151d1b025c"
+metafile = true
+
+[[files]]
 file = "mods/fabric-api.pw.toml"
 hash = "89bd18325ea4e74dd81f9c70ed2105a070d40a109bd78ae74542fa1a3935908f"
 metafile = true
