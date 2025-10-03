@@ -43,6 +43,11 @@ hash = "a86751e4931b83d8f3de8e84e38f2dc0aa316e40c99b9e9f03a9276659a474b6"
 metafile = true
 
 [[files]]
+file = "mods/controlling.pw.toml"
+hash = "d264afb5412f6f8e12d7ce75b4bfc8c752a5c41e520059593d583ce2e3490077"
+metafile = true
+
+[[files]]
 file = "mods/coolrain.pw.toml"
 hash = "5c21bc7913dcfeeebf37acd986bccac4dc93a9dc712cda3d7ea1be0ea868211a"
 metafile = true
@@ -215,6 +220,11 @@ metafile = true
 [[files]]
 file = "mods/rsls.pw.toml"
 hash = "17f1f78051aab0bb1b9855f9756ca41fe14aaefcedd8a3b772d8a9619d675794"
+metafile = true
+
+[[files]]
+file = "mods/searchables.pw.toml"
+hash = "1a563f0c589aced8101bb8a283af3725eedd1caaaaed4eb1987edfe3ff31c948"
 metafile = true
 
 [[files]]
