@@ -148,6 +148,11 @@ hash = "f0b705b810fc48523a67a90f218ae8085206b08421e2a006561169bf2847a907"
 metafile = true
 
 [[files]]
+file = "mods/forge-config-api-port.pw.toml"
+hash = "2df76fcc5bacce682495502f342be0c1f74a33bf0835d80dd0d3d5fc0d2f3b19"
+metafile = true
+
+[[files]]
 file = "mods/gamma-utils.pw.toml"
 hash = "21c99b7589bf18a764a52327f29cc898846dbc4b2a714fec5694f69e1468da71"
 metafile = true
@@ -240,6 +245,11 @@ metafile = true
 [[files]]
 file = "mods/particle-rain.pw.toml"
 hash = "f7e97f10067775f4f6d84666875324de38aee74691681117fbfb4b480d36b5b7"
+metafile = true
+
+[[files]]
+file = "mods/particular-reforged.pw.toml"
+hash = "92f712374ae7c661137f8dc3bef752c247c9e63384faadc34c4b87c1a9c70a85"
 metafile = true
 
 [[files]]
