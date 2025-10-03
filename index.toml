@@ -9,6 +9,10 @@ file = "config/modmenu.json"
 hash = "ed1dbf1b53325d279f6a7f1a696a0a088937c400c7c5558fe3a45585a030db3f"
 
 [[files]]
+file = "config/sodium-extra-options.json"
+hash = "d303add15bb337e4135210aa5361ab843b56988e6f73a7e621b095570b558fb0"
+
+[[files]]
 file = "mods/ambientsounds.pw.toml"
 hash = "38ce16b25494d653eab2e575e9944df3fd07906ef0dc548562e4e010377a6f4f"
 metafile = true
