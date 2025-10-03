@@ -5,6 +5,10 @@ file = "LICENSE"
 hash = "36ffd9dc085d529a7e60e1276d73ae5a030b020313e6c5408593a6ae2af39673"
 
 [[files]]
+file = "config/modmenu.json"
+hash = "ed1dbf1b53325d279f6a7f1a696a0a088937c400c7c5558fe3a45585a030db3f"
+
+[[files]]
 file = "mods/ambientsounds.pw.toml"
 hash = "38ce16b25494d653eab2e575e9944df3fd07906ef0dc548562e4e010377a6f4f"
 metafile = true
