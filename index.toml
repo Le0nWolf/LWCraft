@@ -22,6 +22,11 @@ hash = "38ce16b25494d653eab2e575e9944df3fd07906ef0dc548562e4e010377a6f4f"
 metafile = true
 
 [[files]]
+file = "mods/animatica.pw.toml"
+hash = "7749a788cd34e08e2280dc5e05db1bbf375d7a184d787f682f7df19709a754e3"
+metafile = true
+
+[[files]]
 file = "mods/appleskin.pw.toml"
 hash = "c22ebc9646c063a5c53acae5b49a0b54f8b21500ecc79a9c52b142775512b2d6"
 metafile = true
