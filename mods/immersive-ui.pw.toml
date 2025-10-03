@@ -1,0 +1,13 @@
+name = "Immersive UI"
+filename = "ImmersiveUI-FABRIC-0.3.5+1.21.8.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/9wv7LuMc/versions/vPhFWS9D/ImmersiveUI-FABRIC-0.3.5%2B1.21.8.jar"
+hash-format = "sha512"
+hash = "8fe303398070921a67e64bdfd0c2ef4515ab3d6821d79f3d437ae44ad8b540b87c38c3319482fc8da3c875fcbb38b4ee27afc056a178bca052b9ddae2a706a47"
+
+[update]
+[update.modrinth]
+mod-id = "9wv7LuMc"
+version = "vPhFWS9D"
