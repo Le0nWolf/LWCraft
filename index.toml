@@ -33,6 +33,11 @@ hash = "220695895a8fd68ca82b7b3c34d8499b4f6ea73f6588e3dfbccd2307af0b924d"
 metafile = true
 
 [[files]]
+file = "mods/better-stats.pw.toml"
+hash = "841012fc0e455651bb637434bce2b0d66f74e4cd16e35a055c6ce3b655f72a74"
+metafile = true
+
+[[files]]
 file = "mods/betterf3.pw.toml"
 hash = "2d1c297c06a8781464a18d28d4a6d5c4807d216e42f6e315215d244ecdcb254b"
 metafile = true
@@ -295,6 +300,11 @@ metafile = true
 [[files]]
 file = "mods/spark.pw.toml"
 hash = "a6948eb25808d55a8dc3b9a64999181ebae738c3679ced2981c7c1ec34b9b0b6"
+metafile = true
+
+[[files]]
+file = "mods/tcdcommons.pw.toml"
+hash = "d572ff6e626cbfa217511f976b258c5716571876779eff3f24a65bd397e49f6b"
 metafile = true
 
 [[files]]
