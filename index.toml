@@ -47,6 +47,11 @@ hash = "220695895a8fd68ca82b7b3c34d8499b4f6ea73f6588e3dfbccd2307af0b924d"
 metafile = true
 
 [[files]]
+file = "mods/balm.pw.toml"
+hash = "41e6890a099b1c7b9739b83b483833ff2509a164158b5f802778433b5a5f44f9"
+metafile = true
+
+[[files]]
 file = "mods/better-stats.pw.toml"
 hash = "841012fc0e455651bb637434bce2b0d66f74e4cd16e35a055c6ce3b655f72a74"
 metafile = true
@@ -64,6 +69,11 @@ metafile = true
 [[files]]
 file = "mods/chat-heads.pw.toml"
 hash = "56fc22a9f3dc3eb2aa598aad649071f84c43c17d8618a39f52aede94d29c0a1f"
+metafile = true
+
+[[files]]
+file = "mods/client-tweaks.pw.toml"
+hash = "aa27043c1c479a7ea833ac042e93ffb69af8c30e126b7916f960cc28697d5f4c"
 metafile = true
 
 [[files]]
