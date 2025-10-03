@@ -1,0 +1,13 @@
+name = "Detail Armor Bar Reconstructed"
+filename = "DetailArmorBarReconstructed-4.3.0+1.21.8-fabric.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/Si9Uim4y/versions/iraKd2HY/DetailArmorBarReconstructed-4.3.0%2B1.21.8-fabric.jar"
+hash-format = "sha512"
+hash = "5eb69cb8733c19d344ed958961e371ae0b1385c0fbb7bab90a51c07332aa267ed2e0bb76be6e4c54e550e09ede0db93ffb7ab9bb0b020c7f9b5b6c2ad124e3a7"
+
+[update]
+[update.modrinth]
+mod-id = "Si9Uim4y"
+version = "iraKd2HY"

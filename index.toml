@@ -73,6 +73,11 @@ hash = "937acae581d8c4340d141446a7adb5b3b1915130fd483bee067d45aade834a8a"
 metafile = true
 
 [[files]]
+file = "mods/detail-armor-bar-reconstructed.pw.toml"
+hash = "36a4ff7429bf96a08238753414946d999d251d1f7822bdf91a00689f2fb43b66"
+metafile = true
+
+[[files]]
 file = "mods/dripsounds.pw.toml"
 hash = "4e230e35117c08a4f63428b6b1d62b1e6d14542ccf91396dc4fbc98527c51db4"
 metafile = true
