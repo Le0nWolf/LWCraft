@@ -9,6 +9,10 @@ file = "config/modmenu.json"
 hash = "ed1dbf1b53325d279f6a7f1a696a0a088937c400c7c5558fe3a45585a030db3f"
 
 [[files]]
+file = "config/particular-common.toml"
+hash = "dc1572f3bf075ee5d24fa5c0e1e9b1efacc88e3a430ec46a392a3039e019047a"
+
+[[files]]
 file = "config/sodium-extra-options.json"
 hash = "d303add15bb337e4135210aa5361ab843b56988e6f73a7e621b095570b558fb0"
 
