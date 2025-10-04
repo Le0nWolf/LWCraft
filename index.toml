@@ -62,6 +62,11 @@ hash = "2d1c297c06a8781464a18d28d4a6d5c4807d216e42f6e315215d244ecdcb254b"
 metafile = true
 
 [[files]]
+file = "mods/boat-item-view.pw.toml"
+hash = "2da7cdeb19a0a1466547c544d0e9b0e80828d129e22ce1497256bdf6cf6d51e5"
+metafile = true
+
+[[files]]
 file = "mods/cave-dust.pw.toml"
 hash = "e35cfde6ff15ff840e5a66ffc8cae03038815967b0036ade39ae1c4ad61f4619"
 metafile = true
