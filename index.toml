@@ -307,6 +307,11 @@ hash = "92f712374ae7c661137f8dc3bef752c247c9e63384faadc34c4b87c1a9c70a85"
 metafile = true
 
 [[files]]
+file = "mods/pick-up-notifier.pw.toml"
+hash = "70fa6e96fce494bff20cad6f5f6b2384065664e262ac66f424cffcd6eb5ea5c2"
+metafile = true
+
+[[files]]
 file = "mods/placeholder-api.pw.toml"
 hash = "0993352e081593fca386a8a4e6473ece541a27e018c8384239f27f79d73133a0"
 metafile = true
@@ -324,6 +329,11 @@ metafile = true
 [[files]]
 file = "mods/puzzle.pw.toml"
 hash = "6d9742689a524965f89b5cb1194e4422f2454911a026fd9e98dce82db4a12157"
+metafile = true
+
+[[files]]
+file = "mods/puzzles-lib.pw.toml"
+hash = "d47c73ae52d88b862864a9d8387c93cbeffe2513abff18c3c3c3c450eb4cbdd2"
 metafile = true
 
 [[files]]
