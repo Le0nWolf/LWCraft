@@ -13,6 +13,10 @@ file = "config/particular-common.toml"
 hash = "dc1572f3bf075ee5d24fa5c0e1e9b1efacc88e3a430ec46a392a3039e019047a"
 
 [[files]]
+file = "config/pickupnotifier-client.toml"
+hash = "6e1c4484678844870d0f657db537bc17469743c5d6f03fe916046c4b125a7361"
+
+[[files]]
 file = "config/sodium-extra-options.json"
 hash = "d303add15bb337e4135210aa5361ab843b56988e6f73a7e621b095570b558fb0"
 
