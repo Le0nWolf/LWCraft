@@ -116,6 +116,11 @@ hash = "a90139b002d632ba9256cb3e7e877945bf8e3afa5b191d1adc83c5e3eb72da4c"
 metafile = true
 
 [[files]]
+file = "mods/cut-through.pw.toml"
+hash = "12804ce02e8891b9c55bf25bc4df8273b3dfcafa7a2c91b055b3836359e84e7c"
+metafile = true
+
+[[files]]
 file = "mods/debugify.pw.toml"
 hash = "937acae581d8c4340d141446a7adb5b3b1915130fd483bee067d45aade834a8a"
 metafile = true
