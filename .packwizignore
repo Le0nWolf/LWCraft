@@ -9,3 +9,6 @@
 
 # Exclude Commitizen pre-commit config
 /.pre-commit-config.yaml
+
+# Exclude Configured Defaults README
+/configureddefaults/README.md
