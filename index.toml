@@ -230,6 +230,11 @@ hash = "9956538040762161a154ff7b3e462703c2ae42f40be16a8624f75afc4a85338b"
 metafile = true
 
 [[files]]
+file = "mods/itemphysic-lite.pw.toml"
+hash = "329520ce48d8748fc7ff3a385aa9fb63848602ef79d598e51903ced4d3ecbc00"
+metafile = true
+
+[[files]]
 file = "mods/jade.pw.toml"
 hash = "e5506cea71f62e147a45e6c72a55a430fce5937024f648c819c15dc14b500462"
 metafile = true
