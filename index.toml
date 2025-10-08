@@ -220,6 +220,11 @@ hash = "42f43d0eca9aff401dfb9f0028ec074b25ad1df387bba589b02b0af3f26f8a5c"
 metafile = true
 
 [[files]]
+file = "mods/immersivethunder.pw.toml"
+hash = "011bcff72011c872583d9ec9c1662267b36c53c14264f50305a2681ca8272d12"
+metafile = true
+
+[[files]]
 file = "mods/iris.pw.toml"
 hash = "9956538040762161a154ff7b3e462703c2ae42f40be16a8624f75afc4a85338b"
 metafile = true
