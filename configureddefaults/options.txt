@@ -5,3 +5,4 @@ lang:de_de
 key_key.saveToolbarActivator:key.keyboard.unknown
 key_key.gammautils.gammaToggle:key.keyboard.unknown
 key_key.jade.show_details:key.keyboard.v
+key_iris.keybind.reload:key.keyboard.unknown
