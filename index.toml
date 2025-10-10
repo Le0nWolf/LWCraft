@@ -5,6 +5,10 @@ file = "LICENSE"
 hash = "36ffd9dc085d529a7e60e1276d73ae5a030b020313e6c5408593a6ae2af39673"
 
 [[files]]
+file = "config/MouseTweaks.cfg"
+hash = "438de2af36bf905993252e5015ad3b2f907473f0ad2722d6c79185728bb9b20b"
+
+[[files]]
 file = "config/modmenu.json"
 hash = "ed1dbf1b53325d279f6a7f1a696a0a088937c400c7c5558fe3a45585a030db3f"
 
