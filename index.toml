@@ -250,7 +250,7 @@ metafile = true
 
 [[files]]
 file = "mods/lambdynamiclights.pw.toml"
-hash = "21d1f2ab406de7c0427bd25bdfc1f8099a75c2c31bb78928309aea26111aa8dc"
+hash = "0a86f505e9c1069da708679ece1742253ad38f61d9cd6538e862978e5d7cea81"
 metafile = true
 
 [[files]]
