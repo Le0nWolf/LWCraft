@@ -25,6 +25,10 @@ file = "config/sodium-extra-options.json"
 hash = "d303add15bb337e4135210aa5361ab843b56988e6f73a7e621b095570b558fb0"
 
 [[files]]
+file = "configureddefaults/config/shulkerboxtooltip.json5"
+hash = "db85ba235510d022acd24965041a966b24ee36a319668deb8e2c867ffbae8fac"
+
+[[files]]
 file = "configureddefaults/options.txt"
 hash = "4aae8be6d797906d20ca45a4f6d26adbc2f3d28d6b47620020a86c0581f52a47"
 
