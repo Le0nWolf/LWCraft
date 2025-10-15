@@ -87,6 +87,11 @@ hash = "2da7cdeb19a0a1466547c544d0e9b0e80828d129e22ce1497256bdf6cf6d51e5"
 metafile = true
 
 [[files]]
+file = "mods/bridging-mod.pw.toml"
+hash = "9b5595b414f281b4f30c53751d0a0fb213ea4e70b94baf3e249886585f1afefb"
+metafile = true
+
+[[files]]
 file = "mods/cave-dust.pw.toml"
 hash = "e35cfde6ff15ff840e5a66ffc8cae03038815967b0036ade39ae1c4ad61f4619"
 metafile = true
