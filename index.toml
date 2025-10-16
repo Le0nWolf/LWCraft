@@ -376,6 +376,11 @@ hash = "92f712374ae7c661137f8dc3bef752c247c9e63384faadc34c4b87c1a9c70a85"
 metafile = true
 
 [[files]]
+file = "mods/perception.pw.toml"
+hash = "f2fc56843bfd8788da8f410c21018197ed9932319ec6eebcb3eafa6eb35a81e0"
+metafile = true
+
+[[files]]
 file = "mods/pick-up-notifier.pw.toml"
 hash = "70fa6e96fce494bff20cad6f5f6b2384065664e262ac66f424cffcd6eb5ea5c2"
 metafile = true
