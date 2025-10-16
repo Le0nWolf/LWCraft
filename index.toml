@@ -136,6 +136,11 @@ hash = "5c21bc7913dcfeeebf37acd986bccac4dc93a9dc712cda3d7ea1be0ea868211a"
 metafile = true
 
 [[files]]
+file = "mods/craftpresence.pw.toml"
+hash = "b36098ad4d52f44a3e077847792af2cb9562560c3fd85ad25788d32ecb051830"
+metafile = true
+
+[[files]]
 file = "mods/creativecore.pw.toml"
 hash = "554190499d5711421a831f95c777b85d2592482dfee9d5014580b8feef2f592a"
 metafile = true
@@ -453,6 +458,11 @@ metafile = true
 [[files]]
 file = "mods/tcdcommons.pw.toml"
 hash = "d572ff6e626cbfa217511f976b258c5716571876779eff3f24a65bd397e49f6b"
+metafile = true
+
+[[files]]
+file = "mods/unilib.pw.toml"
+hash = "11e0e78a74c2525277aeae9b7b10b68c0c56681dcf31dc83cdf33cda66456a15"
 metafile = true
 
 [[files]]
