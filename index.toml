@@ -10,7 +10,7 @@ hash = "438de2af36bf905993252e5015ad3b2f907473f0ad2722d6c79185728bb9b20b"
 
 [[files]]
 file = "config/modmenu.json"
-hash = "ed1dbf1b53325d279f6a7f1a696a0a088937c400c7c5558fe3a45585a030db3f"
+hash = "bb0fd753f16b39638ef004c9e5c29fdce0baae48edc6c2e06715955215d6418a"
 
 [[files]]
 file = "config/particular-common.toml"
