@@ -25,6 +25,10 @@ file = "config/sodium-extra-options.json"
 hash = "d303add15bb337e4135210aa5361ab843b56988e6f73a7e621b095570b558fb0"
 
 [[files]]
+file = "configureddefaults/config/autofish.config"
+hash = "024cbcf1b123bb71fd1fac439eebf840474cd0a0834c5ca291732c158501fc3d"
+
+[[files]]
 file = "configureddefaults/config/shulkerboxtooltip.json5"
 hash = "db85ba235510d022acd24965041a966b24ee36a319668deb8e2c867ffbae8fac"
 
@@ -34,7 +38,7 @@ hash = "19fb405ae338ec764fbaf37b4320de14bedbca1dccd290e5abbf9bd12ded4ab8"
 
 [[files]]
 file = "configureddefaults/options.txt"
-hash = "4aae8be6d797906d20ca45a4f6d26adbc2f3d28d6b47620020a86c0581f52a47"
+hash = "8bb0304d4097b7d1a635e048584667344c8c8def49ce8519de8a5a34472c6fee"
 
 [[files]]
 file = "configureddefaults/servers.dat"
