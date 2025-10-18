@@ -165,6 +165,11 @@ hash = "554190499d5711421a831f95c777b85d2592482dfee9d5014580b8feef2f592a"
 metafile = true
 
 [[files]]
+file = "mods/csearcher.pw.toml"
+hash = "9a2a457ce9822ea63a8576b67dd965bb97fc6ea0f272077aef3f9b48ac9e3e62"
+metafile = true
+
+[[files]]
 file = "mods/cubes-without-borders.pw.toml"
 hash = "a90139b002d632ba9256cb3e7e877945bf8e3afa5b191d1adc83c5e3eb72da4c"
 metafile = true
