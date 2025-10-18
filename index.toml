@@ -191,6 +191,11 @@ hash = "7ade9694388d80def1aba6b3653a1a0ea8a68eb14a42e2bffd076fd1335a5ce8"
 metafile = true
 
 [[files]]
+file = "mods/effecttimerplus.pw.toml"
+hash = "7c8674fd64a05074cb56609b08da2fa2db965a075e454c9dc476c501e2cfc626"
+metafile = true
+
+[[files]]
 file = "mods/elytra-physics.pw.toml"
 hash = "aeb55f8c77cb7076cc695b0c8e1599c1bcf7bd95c563f83e6007ab08205b0e08"
 metafile = true
