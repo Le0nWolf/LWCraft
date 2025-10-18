@@ -1,0 +1,13 @@
+name = "Connected Doors"
+filename = "connected-doors-1.3+1.21.2.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/3KwAcCSv/versions/I0qrXfp7/connected-doors-1.3%2B1.21.2.jar"
+hash-format = "sha512"
+hash = "d5b0f36f12d3c8803f2736cdd05ad3c3089ce29b0d7202e67ad89c749ed572ea7ff8e6bb93e166829f8f9f71f052651ab02c8dbf4c7160de53c2b8fe5322c78f"
+
+[update]
+[update.modrinth]
+mod-id = "3KwAcCSv"
+version = "I0qrXfp7"

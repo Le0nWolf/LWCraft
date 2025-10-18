@@ -135,6 +135,11 @@ hash = "c060b83f6c513649e38659d2edac8b364831a541f7767807708dc65f5bb836f3"
 metafile = true
 
 [[files]]
+file = "mods/connected-doors.pw.toml"
+hash = "cae5a2115a7bdf52e8d4cbbcd03486a1e71d8cb04ba9940e8852849d146c9da1"
+metafile = true
+
+[[files]]
 file = "mods/continuity.pw.toml"
 hash = "a86751e4931b83d8f3de8e84e38f2dc0aa316e40c99b9e9f03a9276659a474b6"
 metafile = true
