@@ -121,6 +121,11 @@ hash = "a216e613b5ada8a83972394c8b52331388f6d3e41187a04c3bced3f1752bea70"
 metafile = true
 
 [[files]]
+file = "mods/collective.pw.toml"
+hash = "f25e018f4d038d229c707b2869d25328257014096d1088368b0414ecf6684855"
+metafile = true
+
+[[files]]
 file = "mods/configured-defaults.pw.toml"
 hash = "c060b83f6c513649e38659d2edac8b364831a541f7767807708dc65f5bb836f3"
 metafile = true
@@ -193,6 +198,11 @@ metafile = true
 [[files]]
 file = "mods/enchantment-descriptions.pw.toml"
 hash = "3601d48216e7230ca91a366591d3d2ba8ad6e45cd7e0663f5e90410e0866c054"
+metafile = true
+
+[[files]]
+file = "mods/enchantment-level-cap-indicator.pw.toml"
+hash = "15cc2c0e37ba128731913e71ea53af65ac3d87223980eaea9596214bad5248d1"
 metafile = true
 
 [[files]]
