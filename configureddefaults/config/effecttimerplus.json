@@ -1,0 +1,23 @@
+{
+  "version": 1,
+  "scale": 1.1,
+  "potencyScale": 0.8,
+  "timerScale": 0.9,
+  "potencyEnabled": true,
+  "timerEnabled": true,
+  "timerEnabledAmbient": false,
+  "timerWarnEnabled": true,
+  "timerFlashEnabled": true,
+  "timerWarnTime": 20,
+  "potencyColor": -1140850689,
+  "potencyShadow": true,
+  "potencyBack": false,
+  "potencyBackColor": -1140850689,
+  "timerColor": -1711276033,
+  "timerWarnColor": -65536,
+  "timerShadow": true,
+  "timerBack": false,
+  "timerBackColor": -1776213727,
+  "potencyLocation": 2,
+  "timerLocation": 6
+}
