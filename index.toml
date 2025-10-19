@@ -533,6 +533,11 @@ hash = "5f99e6e1bfea3f2dcc2c3057ea14aa817ac0d6bd8302214b5779439c9bf5ef0b"
 metafile = true
 
 [[files]]
+file = "mods/smooth-scroll.pw.toml"
+hash = "b1f6b652c98f6b02f2f3435be7b51f999ab96a125fe482057a32aaefa0a1ee88"
+metafile = true
+
+[[files]]
 file = "mods/sodium-extra.pw.toml"
 hash = "b182456aefe4b8f37cc3dd34fdccbd07fcd0a2e9a6c175d5e39cd6d5190388dc"
 metafile = true
