@@ -29,6 +29,10 @@ file = "configureddefaults/config/autofish.config"
 hash = "024cbcf1b123bb71fd1fac439eebf840474cd0a0834c5ca291732c158501fc3d"
 
 [[files]]
+file = "configureddefaults/config/durability-viewer.json"
+hash = "a8d9c56a0ba8528d68137d4a46a0d9936fc21fd03fd3ff35499e30f073c3ff0a"
+
+[[files]]
 file = "configureddefaults/config/shulkerboxtooltip.json5"
 hash = "db85ba235510d022acd24965041a966b24ee36a319668deb8e2c867ffbae8fac"
 
