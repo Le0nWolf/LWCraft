@@ -1,0 +1,13 @@
+name = "FuelInfo"
+filename = "FuelInfo-2.1+1.21.3.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/J1ueTDcI/versions/NEIuX08d/FuelInfo-2.1%2B1.21.3.jar"
+hash-format = "sha512"
+hash = "4aa5c179ba975b83e33b2b135809d135ed77f26cbcafb3b84a23e7503b7eb9a5db6af6317f31e452761432d240937f1f7fd96bf39fa688c0752cb75857897524"
+
+[update]
+[update.modrinth]
+mod-id = "J1ueTDcI"
+version = "NEIuX08d"

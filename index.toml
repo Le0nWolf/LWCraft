@@ -285,6 +285,11 @@ hash = "2df76fcc5bacce682495502f342be0c1f74a33bf0835d80dd0d3d5fc0d2f3b19"
 metafile = true
 
 [[files]]
+file = "mods/fuel-info.pw.toml"
+hash = "0d58bce3c862bd187f95b25d916d7efb0a16db0bae3ccf5d5fecac8fa1ebcbe9"
+metafile = true
+
+[[files]]
 file = "mods/gamma-utils.pw.toml"
 hash = "21c99b7589bf18a764a52327f29cc898846dbc4b2a714fec5694f69e1468da71"
 metafile = true
