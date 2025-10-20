@@ -1,0 +1,13 @@
+name = "No Mining Cooldown"
+filename = "nmc-2.4.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/azfbyO6s/versions/3XuW76y7/nmc-2.4.jar"
+hash-format = "sha512"
+hash = "789e14588833a4646592578c6fc6f9a7bc97eeabfe4e8a7a087ae1053df635a339bfe0124b6a4e02ed6b0b1ceb748ef4b2b42d4c498f1f0b5e6c98fd42cb5da1"
+
+[update]
+[update.modrinth]
+mod-id = "azfbyO6s"
+version = "3XuW76y7"

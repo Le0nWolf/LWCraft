@@ -418,6 +418,11 @@ hash = "2e527f2323d5a979d062cd5bdb4624fbab7a95b7b308944f8fc9a2906842d21d"
 metafile = true
 
 [[files]]
+file = "mods/no-mining-cooldown.pw.toml"
+hash = "a3f97bb2dcbb11c383a2ea6aa4b355c6d2cfedc9f6f3afc3f4a7a961aee91407"
+metafile = true
+
+[[files]]
 file = "mods/not-enough-animations.pw.toml"
 hash = "db9eab696bdf9bcd22d3c2a61d8d862a6362a9fa3948acbccbc5be96a015bff2"
 metafile = true
