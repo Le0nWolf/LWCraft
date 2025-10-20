@@ -3,7 +3,21 @@ enableVsync:false
 maxFps:260
 lang:de_de
 key_key.saveToolbarActivator:key.keyboard.unknown
-key_key.gammautils.gammaToggle:key.keyboard.unknown
-key_key.jade.show_details:key.keyboard.v
-key_iris.keybind.reload:key.keyboard.unknown
+key_key.loadToolbarActivator:key.keyboard.unknown
 key_key.autofish.open_gui:key.keyboard.unknown
+key_key.cavedust.toggle:key.keyboard.unknown
+key_key.cavedust.reload:key.keyboard.unknown
+key_key.csearcher.search_menu:key.keyboard.world.2
+key_key.durabilityviewer.showhide:key.keyboard.i
+key_key.gammautils.gammaToggle:key.keyboard.unknown
+key_key.gammautils.increaseGamma:key.keyboard.unknown
+key_key.gammautils.decreaseGamma:key.keyboard.unknown
+key_key.hotbarslotcycling.cycle_left:key.keyboard.unknown
+key_key.hotbarslotcycling.cycle_right:key.keyboard.unknown
+key_key.jade.show_details:key.keyboard.keypad.3
+key_Get Portal Location:key.keyboard.f10
+key_key.nmc.toggle:key.keyboard.n
+key_key.presencefootsteps.settings:key.keyboard.unknown
+key_gui.xaero_minimap_settings:key.keyboard.m
+key_zoomify.key.zoom.secondary:key.keyboard.unknown
+key_iris.keybind.reload:key.keyboard.unknown
