@@ -1,0 +1,13 @@
+name = "Smootheez Config Lib"
+filename = "scl-0.2.1-1.21.6.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/zLVNfWvA/versions/ONqbbQ3F/scl-0.2.1-1.21.6.jar"
+hash-format = "sha512"
+hash = "8f478d9063a1ccfeea569cc38ed1f351db22b5a11b35b8cc1169c2f80842057689456904aa91e944e47955675db4c8bdc543198a0168867d195af0a5637daffa"
+
+[update]
+[update.modrinth]
+mod-id = "zLVNfWvA"
+version = "ONqbbQ3F"

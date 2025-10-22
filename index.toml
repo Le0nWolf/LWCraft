@@ -203,6 +203,11 @@ hash = "0d07adf7d0d94bb683d412849b363f0e770d77ce0808414e2080e4ae773dde7d"
 metafile = true
 
 [[files]]
+file = "mods/dnp.pw.toml"
+hash = "8cdd58be17fcf26dffc6f4091314a9c129c8019d160793abafafac72fc0bfcf3"
+metafile = true
+
+[[files]]
 file = "mods/dripsounds.pw.toml"
 hash = "4e230e35117c08a4f63428b6b1d62b1e6d14542ccf91396dc4fbc98527c51db4"
 metafile = true
@@ -540,6 +545,11 @@ metafile = true
 [[files]]
 file = "mods/smooth-scroll.pw.toml"
 hash = "b1f6b652c98f6b02f2f3435be7b51f999ab96a125fe482057a32aaefa0a1ee88"
+metafile = true
+
+[[files]]
+file = "mods/smootheez-config-lib.pw.toml"
+hash = "f7a0c030797c95cd92d5cdb57c2c4310b1575ad6bed5715609afa4e849eaa88c"
 metafile = true
 
 [[files]]

@@ -1,0 +1,13 @@
+name = "Damage Number Particles"
+filename = "dnp-0.0.4-1.21.6.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/suhHDmmN/versions/fxdTK4Wj/dnp-0.0.4-1.21.6.jar"
+hash-format = "sha512"
+hash = "e8e1b47a2799d19038200981e26a64a1897613d6cef5aff04497f229fa5c14e78b2a240dbd68eca18ed920a7c7849dfbd08388867dd484b0ceed8befd7c296f8"
+
+[update]
+[update.modrinth]
+mod-id = "suhHDmmN"
+version = "fxdTK4Wj"
