@@ -37,6 +37,10 @@ file = "configureddefaults/config/effecttimerplus.json"
 hash = "963a947c9c76a2e8de974e31855c280723e01733fa7e5fbbaa1b51914e279ca0"
 
 [[files]]
+file = "configureddefaults/config/elytrapitch.toml"
+hash = "5e8fb93e294dc46c88d79b4f372f28e308b0d58f1e399da4953cbbac97133c80"
+
+[[files]]
 file = "configureddefaults/config/shulkerboxtooltip.json5"
 hash = "db85ba235510d022acd24965041a966b24ee36a319668deb8e2c867ffbae8fac"
 
