@@ -233,6 +233,11 @@ hash = "aeb55f8c77cb7076cc695b0c8e1599c1bcf7bd95c563f83e6007ab08205b0e08"
 metafile = true
 
 [[files]]
+file = "mods/elytrapitch.pw.toml"
+hash = "8e175a2ff5832dda778fe94ad2f6630167231a3b6681ec2771798c56900673c5"
+metafile = true
+
+[[files]]
 file = "mods/enchantment-descriptions.pw.toml"
 hash = "3601d48216e7230ca91a366591d3d2ba8ad6e45cd7e0663f5e90410e0866c054"
 metafile = true
