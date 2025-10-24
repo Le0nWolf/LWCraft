@@ -92,6 +92,11 @@ hash = "e15eb47019c1372379817862e66999aa3eb4dedc5661fae902147b15201c8054"
 metafile = true
 
 [[files]]
+file = "mods/better-animations-collection.pw.toml"
+hash = "40886617a6f2dbc6b8aa9d3ad1237c65f09cafd454ba6bc99c73cbfe21846a9a"
+metafile = true
+
+[[files]]
 file = "mods/better-stats.pw.toml"
 hash = "841012fc0e455651bb637434bce2b0d66f74e4cd16e35a055c6ce3b655f72a74"
 metafile = true
