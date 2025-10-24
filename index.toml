@@ -507,6 +507,11 @@ hash = "d47c73ae52d88b862864a9d8387c93cbeffe2513abff18c3c3c3c450eb4cbdd2"
 metafile = true
 
 [[files]]
+file = "mods/quick_hotkeys.pw.toml"
+hash = "06a50f1601cadc9d2e98dfa089597733e9271b4d1081e5bc08696f9768801b1c"
+metafile = true
+
+[[files]]
 file = "mods/real-arrow-tip.pw.toml"
 hash = "426f585565aad4e89a397a2958cfb8e2d841be78cf253a3430bbfb5a27952e5f"
 metafile = true

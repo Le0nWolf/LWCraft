@@ -1,0 +1,13 @@
+name = "Quick Elytra Reborn"
+filename = "quick_elytra_reborn-1.2.2.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/24LuV3ge/versions/OIyhL86r/quick_elytra_reborn-1.2.2.jar"
+hash-format = "sha512"
+hash = "2f7b52c881981c307eb0fdecf09b6b08056106f00d18ed3be68b867f6946699d2ad575f968a9847c80cd67247ab96daccd81e6da5115bd0387ec36916b7ba168"
+
+[update]
+[update.modrinth]
+mod-id = "24LuV3ge"
+version = "OIyhL86r"
