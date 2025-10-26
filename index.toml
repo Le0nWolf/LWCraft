@@ -437,6 +437,11 @@ hash = "d5c8a515987ea81c2e8eb838b01cd027e0b743269e17589ec7bfa16ea8e295e2"
 metafile = true
 
 [[files]]
+file = "mods/nbt-autocomplete.pw.toml"
+hash = "85fe187b2b5df41af3dbdea2ffa8505c2d0f0507d8f4d6bc88621d038fceee62"
+metafile = true
+
+[[files]]
 file = "mods/nether-coords.pw.toml"
 hash = "2e527f2323d5a979d062cd5bdb4624fbab7a95b7b308944f8fc9a2906842d21d"
 metafile = true
