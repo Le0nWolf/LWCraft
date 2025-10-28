@@ -132,6 +132,11 @@ hash = "56fc22a9f3dc3eb2aa598aad649071f84c43c17d8618a39f52aede94d29c0a1f"
 metafile = true
 
 [[files]]
+file = "mods/cicada.pw.toml"
+hash = "2108a3f7ff334130bc04e57cb19d56a6f0c1b403e89c120402e06dfb6c973412"
+metafile = true
+
+[[files]]
 file = "mods/clickthrough+.pw.toml"
 hash = "e166ff1288ee8d45566269f867025ae16934284d592e7efac97d31596413b15f"
 metafile = true
@@ -564,6 +569,11 @@ metafile = true
 [[files]]
 file = "mods/searchables.pw.toml"
 hash = "1a563f0c589aced8101bb8a283af3725eedd1caaaaed4eb1987edfe3ff31c948"
+metafile = true
+
+[[files]]
+file = "mods/show-me-your-skin.pw.toml"
+hash = "d11b1975a28e010204fd794db4d7c99c877fc93f9c229044fc7266c5ff61dfc5"
 metafile = true
 
 [[files]]
