@@ -665,3 +665,8 @@ metafile = true
 file = "mods/zoomify.pw.toml"
 hash = "59e45ade7176229ff9750ae85356ba4a92b5124592dd09b0244c861cfda08575"
 metafile = true
+
+[[files]]
+file = "resourcepacks/mace-but-3d-resourcepack.pw.toml"
+hash = "91095494d12f6c730bdda405485bac57398071c110d217d2633852eb199ff022"
+metafile = true
