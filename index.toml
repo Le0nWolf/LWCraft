@@ -528,7 +528,7 @@ metafile = true
 
 [[files]]
 file = "mods/quick_hotkeys.pw.toml"
-hash = "06a50f1601cadc9d2e98dfa089597733e9271b4d1081e5bc08696f9768801b1c"
+hash = "1deb6e3176f92f1972329a6964a4d58f7e658404194b59cb7a7e4f85d945d245"
 metafile = true
 
 [[files]]
