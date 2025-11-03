@@ -62,6 +62,11 @@ hash = "c71213885593728467f9063ac63c1ba54912732a243a3d1c30f809bcc014d166"
 metafile = true
 
 [[files]]
+file = "mods/accurate-block-placement-reborn.pw.toml"
+hash = "5d1b0d0fc0c0422d25b54e0bd7a76a7733967278c7691830fb53fb0879ad4884"
+metafile = true
+
+[[files]]
 file = "mods/ambientsounds.pw.toml"
 hash = "38ce16b25494d653eab2e575e9944df3fd07906ef0dc548562e4e010377a6f4f"
 metafile = true
