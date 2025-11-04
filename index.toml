@@ -670,3 +670,8 @@ metafile = true
 file = "resourcepacks/mace-but-3d-resourcepack.pw.toml"
 hash = "91095494d12f6c730bdda405485bac57398071c110d217d2633852eb199ff022"
 metafile = true
+
+[[files]]
+file = "resourcepacks/redstone-tweaks.pw.toml"
+hash = "d36d0104f40c65ec6e8f7b37c33662ebe57f06e1c3864f9458fd4ea534f4af6a"
+metafile = true
