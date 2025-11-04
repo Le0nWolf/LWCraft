@@ -2,22 +2,43 @@ version:4440
 enableVsync:false
 maxFps:260
 lang:de_de
-key_key.saveToolbarActivator:key.keyboard.unknown
-key_key.loadToolbarActivator:key.keyboard.unknown
+key_key.spectatorOutlines:key.keyboard.left.alt
+key_key.saveToolbarActivator:key.keyboard.right.bracket
+key_key.loadToolbarActivator:key.keyboard.backslash
+key_key.quickActions:key.keyboard.unknown
+key_Toggle Flight HUD:key.keyboard.unknown
+key_Toggle Pitch Lock:key.keyboard.unknown
+key_Snap to Ascend:key.keyboard.page.up
+key_Snap to Descend:key.keyboard.page.down
+key_Snap to Glide:key.keyboard.unknown
+key_net.clayborn.accurateblockplacement.togglevanillaplacement:key.keyboard.period
+key_net.clayborn.accurateblockplacement.togglefastbreaking:key.keyboard.n
 key_key.autofish.open_gui:key.keyboard.unknown
 key_key.cavedust.toggle:key.keyboard.unknown
 key_key.cavedust.reload:key.keyboard.unknown
-key_key.csearcher.search_menu:key.keyboard.world.2
-key_key.durabilityviewer.showhide:key.keyboard.i
+key_key.csearcher.search_in_near_container:key.keyboard.v
+key_key.durabilityviewer.showhide:key.keyboard.equal
 key_key.gammautils.gammaToggle:key.keyboard.unknown
 key_key.gammautils.increaseGamma:key.keyboard.unknown
 key_key.gammautils.decreaseGamma:key.keyboard.unknown
 key_key.hotbarslotcycling.cycle_left:key.keyboard.unknown
 key_key.hotbarslotcycling.cycle_right:key.keyboard.unknown
-key_key.jade.show_details:key.keyboard.keypad.3
+key_key.jade.config:key.keyboard.unknown
+key_key.jade.toggle_liquid:key.keyboard.unknown
+key_key.jade.narrate:key.keyboard.unknown
+key_key.lighty.enable:key.keyboard.unknown
+key_key.modmenu.open_menu:key.keyboard.m
 key_Get Portal Location:key.keyboard.f10
-key_key.nmc.toggle:key.keyboard.n
+key_key.optigui.inspect:key.keyboard.unknown
 key_key.presencefootsteps.settings:key.keyboard.unknown
-key_gui.xaero_minimap_settings:key.keyboard.m
+key_key.glitchifyed.quick_hotkeys.equip_elytra:key.keyboard.grave.accent
+key_key.showmeyourskin.open_settings:key.keyboard.minus
+key_key.showmeyourskin.global_toggle:key.keyboard.unknown
+key_gui.xaero_zoom_in:key.keyboard.j
+key_gui.xaero_toggle_waypoints:key.keyboard.g
+key_gui.xaero_toggle_slime:key.keyboard.keypad.subtract
 key_zoomify.key.zoom.secondary:key.keyboard.unknown
 key_iris.keybind.reload:key.keyboard.unknown
+key_iris.keybind.toggleShaders:key.keyboard.f7
+key_iris.keybind.shaderPackSelection:key.keyboard.unknown
+key_key.craftpresence.config_keycode.name:key.keyboard.unknown

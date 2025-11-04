@@ -50,7 +50,7 @@ hash = "19fb405ae338ec764fbaf37b4320de14bedbca1dccd290e5abbf9bd12ded4ab8"
 
 [[files]]
 file = "configureddefaults/options.txt"
-hash = "d128cb724fcb239812d71d4323c843bbaf619041a40daed0b859a441eb2a5233"
+hash = "9ff867846a1c0d96efc7d4077f7bc77a32741ca1585add8af596fe785f34c24a"
 
 [[files]]
 file = "configureddefaults/servers.dat"
