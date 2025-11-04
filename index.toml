@@ -667,6 +667,11 @@ hash = "59e45ade7176229ff9750ae85356ba4a92b5124592dd09b0244c861cfda08575"
 metafile = true
 
 [[files]]
+file = "resourcepacks/low-on-fire.pw.toml"
+hash = "028c0c4eb8e7f76ee32ba6889bae9c058da066c049d2e3e6c1172f84f9f1c134"
+metafile = true
+
+[[files]]
 file = "resourcepacks/mace-but-3d-resourcepack.pw.toml"
 hash = "91095494d12f6c730bdda405485bac57398071c110d217d2633852eb199ff022"
 metafile = true
