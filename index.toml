@@ -25,6 +25,10 @@ file = "config/sodium-extra-options.json"
 hash = "d303add15bb337e4135210aa5361ab843b56988e6f73a7e621b095570b558fb0"
 
 [[files]]
+file = "configureddefaults/config/accurateblockplacement.properties"
+hash = "77ff72874a004952f6b7a9f991ff448fbe050620716f09a3facbb10cce7c2b42"
+
+[[files]]
 file = "configureddefaults/config/autofish.config"
 hash = "024cbcf1b123bb71fd1fac439eebf840474cd0a0834c5ca291732c158501fc3d"
 
