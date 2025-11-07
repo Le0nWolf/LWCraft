@@ -166,6 +166,11 @@ hash = "71a28f3d54e0f7fbeec1a48bcaee5ee5ca9257939e8bfd8973721b9843b22f1d"
 metafile = true
 
 [[files]]
+file = "mods/commandkeys.pw.toml"
+hash = "1c8e8e2aa1337df1b419bf3fe3215982dbe072305797673ffcaa4456e2296c84"
+metafile = true
+
+[[files]]
 file = "mods/configured-defaults.pw.toml"
 hash = "c060b83f6c513649e38659d2edac8b364831a541f7767807708dc65f5bb836f3"
 metafile = true
