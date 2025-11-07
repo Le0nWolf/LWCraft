@@ -1,0 +1,13 @@
+name = "Mob Crates"
+filename = "MobCrates_1.21.9_v2.2.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/bYcjtBki/versions/n5SnP1d9/MobCrates_1.21.9_v2.2.zip"
+hash-format = "sha512"
+hash = "7c349a25263f4613e4229aae3419142bd4e2f85149366f441b795537c0b414b55e687a99d1643feed051f547dd82dd0327c0f38f930ceed2d39a09a3f493bc02"
+
+[update]
+[update.modrinth]
+mod-id = "bYcjtBki"
+version = "n5SnP1d9"

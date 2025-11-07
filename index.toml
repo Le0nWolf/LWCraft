@@ -686,6 +686,11 @@ hash = "91095494d12f6c730bdda405485bac57398071c110d217d2633852eb199ff022"
 metafile = true
 
 [[files]]
+file = "resourcepacks/mob-crates.pw.toml"
+hash = "c741151c6d9325f4d4bfc4bbc82d0736f1d2a6119fce42cc56b8b2212bf9ef5e"
+metafile = true
+
+[[files]]
 file = "resourcepacks/redstone-tweaks.pw.toml"
 hash = "d36d0104f40c65ec6e8f7b37c33662ebe57f06e1c3864f9458fd4ea534f4af6a"
 metafile = true
