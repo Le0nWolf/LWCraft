@@ -1,13 +1,13 @@
 name = "My Totem Doll"
-filename = "MyTotemDoll-2.2.3+1.21.8.jar"
+filename = "MyTotemDoll-2.3.1+1.21.8.jar"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/ygYU16dG/versions/KCt17xSi/MyTotemDoll-2.2.3%2B1.21.8.jar"
+url = "https://cdn.modrinth.com/data/ygYU16dG/versions/SUovtky5/MyTotemDoll-2.3.1%2B1.21.8.jar"
 hash-format = "sha512"
-hash = "b4f539dba48a93fbeca0b20de16765f011c0a6a08326787014f24a3e742799ebbe15eb5d73eeab88800202846c3353d94694e22e3e180fbd751cb2bc3c494a52"
+hash = "340ce01e56b04c5528d6d335a2f97d24b59bea46305d68171b6f2a4c68d3f83003ee2dd9c30b56a962703869a8acb769276bbc18c1ef2203b67e7d5d3b012092"
 
 [update]
 [update.modrinth]
 mod-id = "ygYU16dG"
-version = "KCt17xSi"
+version = "SUovtky5"

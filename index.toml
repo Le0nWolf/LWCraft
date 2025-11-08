@@ -457,7 +457,7 @@ metafile = true
 
 [[files]]
 file = "mods/my_totem_doll.pw.toml"
-hash = "d5c8a515987ea81c2e8eb838b01cd027e0b743269e17589ec7bfa16ea8e295e2"
+hash = "cfb3c317d7e274418c374591db30399c17f83bc8cacb611d0ac01366b21cc9fb"
 metafile = true
 
 [[files]]
