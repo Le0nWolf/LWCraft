@@ -91,6 +91,11 @@ hash = "832691489ab19e2f0a4b81b77c143a8dceb5f3f395cdee96bcddd893fb01b363"
 metafile = true
 
 [[files]]
+file = "mods/axiom.pw.toml"
+hash = "44d9abea1e49c1577d91047d4bd083397fb2e2329b53c16647dbe32c923b5d38"
+metafile = true
+
+[[files]]
 file = "mods/badoptimizations.pw.toml"
 hash = "220695895a8fd68ca82b7b3c34d8499b4f6ea73f6588e3dfbccd2307af0b924d"
 metafile = true
