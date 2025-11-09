@@ -2,10 +2,10 @@ version:4440
 enableVsync:false
 maxFps:260
 lang:de_de
-key_key.spectatorOutlines:key.keyboard.left.alt
 key_key.saveToolbarActivator:key.keyboard.right.bracket
 key_key.loadToolbarActivator:key.keyboard.backslash
 key_key.quickActions:key.keyboard.unknown
+key_axiom.keybind.toggle_replace_mode_cap:key.keyboard.right.alt
 key_Toggle Flight HUD:key.keyboard.unknown
 key_Toggle Pitch Lock:key.keyboard.unknown
 key_Snap to Ascend:key.keyboard.page.up
@@ -27,7 +27,6 @@ key_key.jade.config:key.keyboard.unknown
 key_key.jade.toggle_liquid:key.keyboard.unknown
 key_key.jade.narrate:key.keyboard.unknown
 key_key.lighty.enable:key.keyboard.unknown
-key_key.modmenu.open_menu:key.keyboard.m
 key_Get Portal Location:key.keyboard.f10
 key_key.optigui.inspect:key.keyboard.unknown
 key_key.presencefootsteps.settings:key.keyboard.unknown
