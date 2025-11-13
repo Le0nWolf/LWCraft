@@ -502,7 +502,7 @@ metafile = true
 
 [[files]]
 file = "mods/optigui.pw.toml"
-hash = "aaa113528d488df3744621e67362de6b2db57116109256b06277974127007a28"
+hash = "fd3e53ec7952cc61da0d7f57a49f6280b1b869b20772fe8e6dcd40cb8812e109"
 metafile = true
 
 [[files]]
