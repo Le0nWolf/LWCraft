@@ -666,6 +666,11 @@ hash = "db3322e6f547044afc3f1ee13c49245244e080e29d128c6e6f6b1df613c8020c"
 metafile = true
 
 [[files]]
+file = "mods/visualkeys.pw.toml"
+hash = "f1c6a6f59db5bac6214bf9676baa67604a16e74e85d90feeb869faf6a9e623d6"
+metafile = true
+
+[[files]]
 file = "mods/vmp-fabric.pw.toml"
 hash = "989b6c4ff3dc08d7994667b4dfc9931a3b15876eabe4f9de7be8939153bb1fdc"
 metafile = true
