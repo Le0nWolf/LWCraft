@@ -237,7 +237,7 @@ metafile = true
 
 [[files]]
 file = "mods/deimos.pw.toml"
-hash = "ab03ae9815a9d5b58ad46d589d4a6e5eddaae2dfc03b1c38e5290ecc439bfbd6"
+hash = "27c76536fb0c09a1eff72611f81d54d24c2550ce9f403ca236b4dacd41d4488b"
 metafile = true
 
 [[files]]
