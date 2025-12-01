@@ -252,7 +252,7 @@ metafile = true
 
 [[files]]
 file = "mods/dripsounds.pw.toml"
-hash = "4e230e35117c08a4f63428b6b1d62b1e6d14542ccf91396dc4fbc98527c51db4"
+hash = "8cd1bcb8bd326f6a659d28ca8c0795febc84fbc79eec8ef2b85ee15344f30302"
 metafile = true
 
 [[files]]
